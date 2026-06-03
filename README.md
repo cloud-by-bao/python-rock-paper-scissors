@@ -2,7 +2,7 @@
 
 A simple command-line Rock, Paper, Scissors game built in Python.
 
-👤 Author: Bao Luong
+**👤 Author: Bao Luong**
 **📧 Email: baodevops21@gmail.com**
 
 ## Overview
