@@ -31,11 +31,11 @@ This project was created as part of my Python learning journey to strengthen my 
 
 ### Code
 
-![Code Screenshot](screenshots/game-code.png)
+![Code Screenshot](game-code.png)
 
 ### Program Output
 
-![Program Output](screenshots/game-output.png)
+![Program Output](game-output.png)
 
 ## How to Run
 
