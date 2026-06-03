@@ -2,6 +2,9 @@
 
 A simple command-line Rock, Paper, Scissors game built in Python.
 
+👤 Author: Bao Luong
+📧 Email: baodevops21@gmail.com
+
 ## Overview
 
 This project allows a user to play Rock, Paper, Scissors against a computer opponent. The computer randomly selects its move, and the game determines the winner based on standard game rules.
@@ -89,10 +92,6 @@ You win!
 - Refactor into functions
 - Unit testing with pytest
 - GUI version using Tkinter
-
-## Author
-
-**Bao Luong**
 
 - LinkedIn: https://www.linkedin.com/in/bluong21/
 - GitHub: https://github.com/cloud-by-bao
