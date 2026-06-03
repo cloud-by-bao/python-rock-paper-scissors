@@ -31,11 +31,11 @@ This project was created as part of my Python learning journey to strengthen my 
 
 ### Code
 
-![Code Screenshot](python%20rock_paper_scissors%20image%20%232(1).png)
+![Code Screenshot](screenshots/game-code.png)
 
 ### Program Output
 
-![Code Screenshot](python%20rock_paper_scissors%20image%20%232(2).png)
+![Program Output](screenshots/game-output.png)
 
 ## How to Run
 
